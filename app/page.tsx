@@ -59,6 +59,12 @@ export default function Home() {
                   ↗
                 </span>
               </a>
+              <a
+                href="https://github.com/jmejiamu"
+                className="inline-flex items-center gap-2 rounded-full border border-white/20 px-6 py-3 text-sm font-semibold text-white transition hover:bg-white/5"
+              >
+                GitHub Profile
+              </a>
             </div>
           </div>
         </section>
